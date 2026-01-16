@@ -1,0 +1,4 @@
+com/imt/mines/AppTest.class
+com/imt/mines/bank/bdd/BankAccountBasicSteps.class
+com/imt/mines/BankAccountTest.class
+com/imt/mines/bank/bdd/RunBankAccountCucumberTest.class
